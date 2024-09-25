@@ -3,6 +3,10 @@
 
 An Optical Character Recognition (OCR) server built using Tesseract.js. This server processes images and extracts text using the Tesseract.js OCR library. The project is containerized using Docker for easy deployment.
 
+![Screenshot](https://github.com/shanu9144/Ocr-server/blob/main/Screenshot%202024-09-25%20183808.png)  
+![Screenshot](https://github.com/shanu9144/Ocr-server/blob/main/Recording%202024-09-25%20183914.mp4)  
+
+
 ## Features
 Tesseract.js: JavaScript library for OCR processing.
 
