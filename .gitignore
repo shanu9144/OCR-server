@@ -1,24 +1,42 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
 .env
-Dockerfile
-
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-
-# testing
-/coverage
-
-# production
-/build
-
-# misc
-.DS_Store
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Uploaded files
+uploads/
+
+# Temporary files
+tmp/
+temp/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# MongoDB data files
+data/
+
+# Other
+*.tgz
